@@ -75,7 +75,7 @@ button {
 
 /* line 39, ../../Arafath/CL/CL October/220 Tasty Rooms/HTML/scss/theme-default.scss */
 h1, h2, h3, h4, h5 {
-  font-family: "Satisfy", cursive;
+  font-family: 'Times New Roman', Times, serif, cursive;
   color: #000000;
 }
 
@@ -1186,7 +1186,7 @@ h3 {
 
 /* line 197, ../../Arafath/CL/CL October/220 Tasty Rooms/HTML/scss/_header.scss */
 .header-area .main-header-area .main-menu ul li a:hover {
-  color: #000;
+  text-decoration: underline;
 }
 
 /* line 201, ../../Arafath/CL/CL October/220 Tasty Rooms/HTML/scss/_header.scss */
@@ -2703,6 +2703,10 @@ h3 {
 /* line 1, ../../Arafath/CL/CL October/220 Tasty Rooms/HTML/scss/_bradcam.scss */
 .bradcam_bg_1 {
   background-image: linear-gradient(rgba(170, 135, 40, 0.815), rgba(0, 0, 21, 0.801)), url(../img/banner/bradcam.jpg);
+}
+
+.bradcam_bg_2 {
+  background-image: linear-gradient(rgba(170, 135, 40, 0.815), rgba(0, 0, 21, 0.801)), url(../img/banner/banner-activities.jpg);
 }
 
 /* line 4, ../../Arafath/CL/CL October/220 Tasty Rooms/HTML/scss/_bradcam.scss */
@@ -4716,7 +4720,7 @@ h3 {
 
 /* line 330, ../../Arafath/CL/CL October/220 Tasty Rooms/HTML/scss/_recepie.scss */
 .latest_trand_area {
-  background-image: linear-gradient(rgba(111, 0, 0, 0.8), rgba(0, 0, 0, 0.4) ),url(../img/recepie/banner.jpg);
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.9) ),url(../img/recepie/banner.jpg);
   padding: 150px 0;
   background-size: cover;
   background-position: center;
@@ -5105,7 +5109,7 @@ h3 {
   height: 48px;
   padding-left: 18px;
   font-size: 13px;
-  background: transparent;
+  background: #fff;
 }
 
 /* line 69, ../../Arafath/CL/CL October/220 Tasty Rooms/HTML/scss/_contact.scss */
@@ -5409,7 +5413,7 @@ h6 {
 .genric-btn.primary-border {
   color: #ff5e13;
   border: 1px solid #ff5e13;
-  background: #fff;
+  background: #dadada ;
 }
 
 /* line 231, ../../Arafath/CL/CL October/220 Tasty Rooms/HTML/scss/_elements.scss */
@@ -5465,7 +5469,7 @@ h6 {
 .genric-btn.info-border {
   color: #38a4ff;
   border: 1px solid #38a4ff;
-  background: #fff;
+  background: #dadada ;
 }
 
 /* line 271, ../../Arafath/CL/CL October/220 Tasty Rooms/HTML/scss/_elements.scss */
@@ -8205,7 +8209,7 @@ h6 {
 }
 
 .logo img {
-  width:40px;
+  width:70px;
 }
 
 .single_room{
