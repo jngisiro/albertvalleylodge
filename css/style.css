@@ -946,8 +946,8 @@ h3 {
 /* line 16, ../../Arafath/CL/CL October/220 Tasty Rooms/HTML/scss/_header.scss */
 .header-area .main-header-area {
   padding: 25px 0px;
-  background: #fff;
-  background: transparent;
+  background: #000;
+
 }
 
 @media (max-width: 767px) {
@@ -1128,7 +1128,7 @@ h3 {
 
 /* line 147, ../../Arafath/CL/CL October/220 Tasty Rooms/HTML/scss/_header.scss */
 .header-area .main-header-area .main-menu ul li a {
-  color: #000000;
+  color: #fff;
   font-size: 15px;
   text-transform: capitalize;
   font-weight: 500;
@@ -8216,7 +8216,6 @@ h6 {
   margin-top: 50px;
   width:300px;
   height: 300px;
-  background-image: url(../img/rooms/train.jpg);
   background-size: cover;
   background-position: top;
   clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
