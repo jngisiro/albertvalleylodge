@@ -1,6 +1,6 @@
 <?php
 
-    $to = "info@albertvalleylodge.com";
+    $to = "info@Albertinevalleylodge.com";
     $from = $_REQUEST['email'];
     $name = $_REQUEST['name'];
     $subject = $_REQUEST['subject'];
