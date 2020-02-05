@@ -1426,10 +1426,6 @@ h3 {
   color: #000 !important;
 }
 
-/* line 1, ../../Arafath/CL/CL October/220 Tasty Rooms/HTML/scss/_slider.scss */
-.slider_bg_1 {
-  background: linear-gradient(rgba(178, 29, 34, 0.201), rgba(0, 0, 0, 0.201)), url(../img/banner/banner.jpg);
-}
 
 /* line 4, ../../Arafath/CL/CL October/220 Tasty Rooms/HTML/scss/_slider.scss */
 .slider_bg_2 {
