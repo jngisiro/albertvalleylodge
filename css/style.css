@@ -8211,3 +8211,13 @@ h6 {
 .logo img {
   width:40px;
 }
+
+.single_room{
+  margin-top: 50px;
+  width:300px;
+  height: 300px;
+  background-image: url(../img/rooms/train.jpg);
+  background-size: cover;
+  background-position: top;
+  clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
+}
